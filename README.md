@@ -2,6 +2,6 @@
 
 Hello!
 
-I love learning & speaking about the concepts I've learned or am learning currently.
+I like to speak about the concepts that I've learned or am currently learning. 
 
 The decks for most talks + YouTube links [wherever applicable] are updated here.
