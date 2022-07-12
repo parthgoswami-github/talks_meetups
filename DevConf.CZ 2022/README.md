@@ -4,7 +4,7 @@ Spoke at DevConf.CZ 2022 and gave a talk on ‘The emergence of In-Vehicle OS'.
 
 - **Title**: The emergence of In-Vehicle OS - DevConf.CZ 2022
 - **YouTube Link**: https://youtu.be/3Oxjn9HDyqs
-- **Slides**: Uploaded in repo
+- **Slides**: https://github.com/parthgoswami-github/talks_meetups/blob/main/DevConf.CZ%202022/The%20emergence%20of%20In-Vehicle%20OS.pdf
 - **About**: Key takeaways from this session would be:
   - Paradigm shift in automotive industry
   - Ongoing autonomous vehicle projects
