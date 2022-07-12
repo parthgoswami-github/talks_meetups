@@ -1,4 +1,4 @@
-Spoke at DevConf.CZ 2022 and gave a talk on ‘The emergence of In-Vehicle OS'. 
+Spoke at DevConf.CZ 2022 on ‘The emergence of In-Vehicle OS'. 
 
 # DevConf.CZ 2022
 
